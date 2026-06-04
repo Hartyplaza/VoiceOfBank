@@ -176,6 +176,8 @@ VoiceOfBank/
 
 ## Quickstart
 
+> **Note:** Notebooks 01-04 include full cell outputs. Notebooks 05-07 (Colab) are saved without outputs to keep file sizes manageable. Run them on Google Colab with a T4 GPU to reproduce all results.
+
 ```bash
 git clone https://github.com/Hartyplaza/VoiceOfBank
 cd VoiceOfBank
