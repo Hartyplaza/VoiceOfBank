@@ -1,0 +1,28 @@
+{
+  "bank_to_id": {
+    "Barclays": 0,
+    "HSBC": 1,
+    "Lloyds": 2,
+    "Monzo": 3,
+    "NatWest": 4,
+    "Starling": 5
+  },
+  "id_to_bank": {
+    "0": "Barclays",
+    "1": "HSBC",
+    "2": "Lloyds",
+    "3": "Monzo",
+    "4": "NatWest",
+    "5": "Starling"
+  },
+  "sent_to_id": {
+    "Negative": 0,
+    "Neutral": 1,
+    "Positive": 2
+  },
+  "id_to_sent": {
+    "0": "Negative",
+    "1": "Neutral",
+    "2": "Positive"
+  }
+}

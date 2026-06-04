@@ -1,0 +1,6 @@
+﻿data/models/roberta_sentiment/model.safetensors
+data/models/roberta_sentiment/training_args.bin
+data/raw/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
